@@ -16,7 +16,7 @@ try{
 
 
 //接受邮件的邮箱地址
-//$email='myxy99@foxmail.com';
+//$email='';
 
 
 //$subject为邮件标题
